@@ -1,0 +1,2 @@
+I am some lines of test data. Watch as I am mapped and reduced! Punctuation should be removed,
+and each instance of each word should be counted and the sum output to a file. Eventually, I (and the other part of the assignment) will be automated via a bash script....but for now & we're only anticipating results along the lines of three I's, four of's, five and's, three be's, and two three's, etc.
